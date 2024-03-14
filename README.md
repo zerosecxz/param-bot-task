@@ -7,7 +7,7 @@ paramgaming-bot is a Node.js script designed to interact with the Param Gaming A
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dante4rt/paramgaming-bot.git
+   git clone https://github.com/zerosecxz/param-bot-task
    ```
 
 2. Install dependencies:
